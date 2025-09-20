@@ -138,4 +138,4 @@ This project is licensed under the MIT License.
 
 ---
 
-👉 Do you also want me to **create the `seed.sql` file** with some realistic sample data (patients, doctors, services, appointments) so that the database is ready to test immediately after setup?
+
